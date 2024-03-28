@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Birgul</h1>
-<h3 align="center">👋 Hi there! I'm a fourth-year Computer Engineering student at Pamukkale University, and I'm passionate about all things tech. Over the years, I've developed my skills in web programming, such as Javascript,React and .Net</h3>
+<h3 align="center">👋 Hi there! I'm a fourth-year Computer Engineering student at Pamukkale University, and I'm passionate about all things tech. Over the years, I've developed my skills in web programming, such as Java Spring and ASP.NET Core</h3>
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/omerbirgull" target="blank"><img src="https://img.shields.io/twitter/follow/omerbirgull?logo=twitter&style=for-the-badge" alt="omerbirgull" /></a> </p>
 
-- 🌱 I’m currently learning **C# , .Net**
+- 🌱 I’m intressted in **.NET Core** and **Java Spring**
 
 - 📫 How to reach me **omerbirgul45@gmail.com**
 
