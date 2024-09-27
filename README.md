@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Birgul</h1>
-<h3 align="center">👋 Hi there! I'm a fourth-year Computer Engineering student at Pamukkale University, and I'm passionate about all things tech. Over the years, I've developed my skills in web programming, such as Java Spring and ASP.NET Core</h3>
+<h3 align="center">👋 Hi there! I'm a softwate developer and I'm passionate about all things tech. Over the years, I've developed my skills in web programming, such as Java Spring and ASP.NET Core</h3>
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 </p>
