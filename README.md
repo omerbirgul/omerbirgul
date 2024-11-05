@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Omer+Faruk+Birgul...;&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">👋 Hi there! I'm a softwate developer and I'm passionate about all things tech. Over the years, I've developed my skills in web programming, such as Java Spring and ASP.NET Core</h3>
+<h3 align="center">I'm a softwate developer and I'm passionate about all things tech. Over the years, I've developed my skills in web programming, such as Java Spring and ASP.NET Core</h3>
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 </p>
